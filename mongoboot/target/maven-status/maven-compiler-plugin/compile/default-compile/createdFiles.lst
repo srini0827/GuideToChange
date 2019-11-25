@@ -1,0 +1,3 @@
+com\boot\mongo\mongoboot\App.class
+com\boot\mongo\mongoboot\data\Customer.class
+com\boot\mongo\mongoboot\repository\CustomerRepository.class
